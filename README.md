@@ -45,7 +45,7 @@
 <a href="https://www.blender.org">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/></a>
 
-<p>Copyright © 2023 DigitalNerdOfficial</p>
+<p>Copyright © 2024 DigitalNerdOfficial</p>
 <!---
 DigitalNerdOfficial/DigitalNerdOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
